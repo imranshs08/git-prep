@@ -1,0 +1,4 @@
+imranshs08 ➜ /workspaces/git-prep (feature-merge) $ git log --oneline
+ada4b5d (HEAD -> feature-merge, origin/master, origin/HEAD, master, feature-rebase) Revert "added readme change"
+f3459db added readme change
+175ef51 Initial commit
