@@ -1,3 +1,1 @@
 # git-prep
-
-samole code 
