@@ -1,1 +1,2 @@
 Added value inside feature branch.
+This is used to create a rebase commit.
